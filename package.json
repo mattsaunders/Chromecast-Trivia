@@ -1,0 +1,25 @@
+{
+  "name": "chromecast",
+  "version": "1.0.0",
+  "description": "This is a boilerplate for your next Google Chromecast receiver app written in AngularJS with DRM support as described on [Google Developer website](https://developers.google.com/cast/docs/custom_receiver).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mssaunders/Chromecast-Trivia.git"
+  },
+  "author": "Jonah Pelfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mssaunders/Chromecast-Trivia/issues"
+  },
+  "homepage": "https://github.com/mssaunders/Chromecast-Trivia#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
